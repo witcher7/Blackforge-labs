@@ -36,3 +36,9 @@ QEMU
            ├── 🖥️ Virtual Machine 1 (OS1)
            ├── 🖥️ Virtual Machine 2 (OS2)
            └── 🖥️ Virtual Machine 3 (OS3)
+
+Limitations of virtual machines/ server
+> provisioning a virtual machine is time consuming
+> Resources (CPU,memory) allocation is not dynamic
+> Left over resources are given to be utilised
+> 
